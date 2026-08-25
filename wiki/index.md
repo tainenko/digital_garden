@@ -6,7 +6,7 @@ updated: 2026-06-12
 
 # Wiki Index
 
-_Last updated: 2026-08-25 — 491 pages total_
+_Last updated: 2026-08-25 — 492 pages total_
 
 ---
 
@@ -435,6 +435,7 @@ _各語言的語法深度、框架、工具鏈、最佳實踐與版本演進_
 | [[Go1.23新功能實戰]] | range-over-func 迭代器、iter.Seq/Seq2/Pull、unique 套件、Timer Reset 修正 | go-release-notes-1.22-1.25 |
 | [[Go1.24新功能實戰]] | 泛型型別別名、weak.Pointer、os.Root 沙盒、Swiss Table Map、tool 指令 | go-release-notes-1.22-1.25 |
 | [[Go1.25新功能實戰]] | testing/synctest 穩定、t.Context()、iter.Concat、slices.Chunk、後量子 TLS ML-KEM | go-release-notes-1.22-1.25 |
+| [[Go1.27新功能實戰]] | Generic Methods 解除四年限制、encoding/json/v2 正式畢業、Post-Quantum 密碼學、uuid package | — |
 
 #### 微服務與後端工程
 

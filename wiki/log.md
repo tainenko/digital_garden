@@ -1257,3 +1257,8 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 概念，數位醫療/）: [[遠距問診法規比較（台灣vs日本）]]
 - Updated: wiki/index.md（頁數 490→491）
 - Key additions: (1) 台日兩地均為「例外許可制」，初診原則不可遠距、慢性病複診合法；(2) 台灣 2024 修正通訊診察治療辦法，新增電子處方箋與擴大慢性病範圍；(3) 日本 2025/12 將オンライン診療正式寫入醫療法，法制化晚但趨嚴；(4) LINE Doctor 2025/06 關閉印證日本商業化困難；(5) 對新創啟示：慢性病複診是合規路徑、「諮詢」vs「問診」的法規套利邏輯、日本市場比台灣更難進入。
+
+## [2026-08-25] ingest | Go 1.27 新功能實戰
+- Created（1 概念，go-backend/）: [[Go1.27新功能實戰]]
+- Updated: wiki/index.md（+1 concept，頁數 491→492）
+- Key additions: (1) Generic Methods——method 可宣告自己的 type parameter，限制：interface method 不能有 type param、generic method 不能實作 interface；(2) encoding/json/v2 正式進標準庫（1.25 GOEXPERIMENT 畢業），有破壞性變更（大小寫匹配、omitempty vs omitzero）；(3) uuid 進標準庫；(4) Goroutine Leak Profile 新 pprof 類型；(5) Post-Quantum ML-KEM TLS 層自動受益。
