@@ -11,10 +11,14 @@
             "id": "b9fe1d2e58f7d5cd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/go-backend/Go1.27新功能實戰.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Go1.27新功能實戰"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "go 1.27",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

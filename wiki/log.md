@@ -1262,3 +1262,8 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 概念，go-backend/）: [[Go1.27新功能實戰]]
 - Updated: wiki/index.md（+1 concept，頁數 491→492）
 - Key additions: (1) Generic Methods——method 可宣告自己的 type parameter，限制：interface method 不能有 type param、generic method 不能實作 interface；(2) encoding/json/v2 正式進標準庫（1.25 GOEXPERIMENT 畢業），有破壞性變更（大小寫匹配、omitempty vs omitzero）；(3) uuid 進標準庫；(4) Goroutine Leak Profile 新 pprof 類型；(5) Post-Quantum ML-KEM TLS 層自動受益。
+
+## [2026-08-25] ingest | Go 1.26 新功能實戰
+- Created（1 概念，go-backend/）: [[Go1.26新功能實戰]]
+- Updated: wiki/index.md（+1 concept，頁數 492→493）
+- Key additions: (1) Green Tea GC 正式預設——以連續記憶體頁掃描取代逐指針，GC overhead 降 10–40%，高分配服務有感；(2) new 帶初始值（ptr := new(int64(300))）；(3) 泛型自參照約束（type Adder[A Adder[A]] interface）解鎖遞迴泛型；(4) crypto/hpke RFC 9180 後量子混合加密；(5) go fix 擴展為可插拔 modernizer 框架；(6) cgo overhead -30%。
