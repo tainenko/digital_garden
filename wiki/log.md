@@ -1241,3 +1241,9 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 實體）: [[IC Care]]
 - Updated: wiki/index.md（+1 entity，頁數 484→485）
 - Key additions: 慷驊股份有限公司旗下遠距醫療平台，台灣唯一 24 小時線上緊急醫療諮詢；定位為旅外/出差族群，與產險公司及旅遊業者 B2B 合作為主要商業模式；有日本線上看診服務；與 WaCare（社群）、Health2Sync（慢病）定位明顯不同。
+
+## [2026-08-25] ingest | 糖尿病數位管理競爭地圖
+- Created（3 實體）: [[Kakao Healthcare]]、[[mySugr]]、[[Dario Health]]
+- Created（1 概念，數位醫療/）: [[糖尿病數位管理競爭地圖]]
+- Updated: wiki/index.md（+3 entities、+1 concept，頁數 485→489）
+- Key additions: (1) 亞洲雙雄對決——Health2Sync（台灣）vs Kakao PASTA（韓國），兩家都整合 CGM + 智慧胰島素筆、都鎖定日本為下一站；(2) 全球格局：mySugr（Roche、600 萬用戶、歐美）、Dario Health（那斯達克、B2B 雇主端）、Livongo/Teladoc（$185 億美元收購）；(3) 三大護城河：CGM 整合深度、製藥廠智慧筆蓋合作、醫院/藥局 B2B 通路；(4) 共同趨勢：從糖尿病往多慢性病擴展、日本必爭、AI 功能標配化。

@@ -6,7 +6,7 @@ updated: 2026-06-12
 
 # Wiki Index
 
-_Last updated: 2026-08-25 — 485 pages total_
+_Last updated: 2026-08-25 — 489 pages total_
 
 ---
 
@@ -15,6 +15,9 @@ _人物、公司、產品、組織_
 
 | Page | Summary | Sources |
 |------|---------|---------|
+| [[Kakao Healthcare]] | 韓國 Kakao 旗下；PASTA AI 血糖管理 App；CGM 整合；搶攻日本市場 | — |
+| [[mySugr]] | Roche 旗下糖尿病 App；600 萬用戶；歐美主力；Accu-Chek 硬體整合 | — |
+| [[Dario Health]] | 美美/以色列；硬體+軟體慢性病平台；B2B 雇主健康；那斯達克上市 | — |
 | [[IC Care]] | 台灣唯一 24 小時線上緊急醫療諮詢；旅外/旅遊族群；與產險/旅遊業者合作 | — |
 | [[AlleyPin 翔評互動]] | 牙醫診所數位轉型 SaaS；FT 亞太高成長 500 強；進軍日本 | — |
 | [[Health2Sync 智抗糖]] | 糖尿病→慢性病數位管理；C 輪 $2,000 萬美元；籌備 IPO | — |
