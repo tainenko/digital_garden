@@ -6,7 +6,7 @@ updated: 2026-06-12
 
 # Wiki Index
 
-_Last updated: 2026-08-25 — 489 pages total_
+_Last updated: 2026-08-25 — 490 pages total_
 
 ---
 
@@ -15,6 +15,7 @@ _人物、公司、產品、組織_
 
 | Page | Summary | Sources |
 |------|---------|---------|
+| [[LINE Healthcare]] | LY Corporation 旗下 LINE Doctor；2020 上線、2025/06 關閉；日本遠距問診商業化困難的案例 | — |
 | [[Kakao Healthcare]] | 韓國 Kakao 旗下；PASTA AI 血糖管理 App；CGM 整合；搶攻日本市場 | — |
 | [[mySugr]] | Roche 旗下糖尿病 App；600 萬用戶；歐美主力；Accu-Chek 硬體整合 | — |
 | [[Dario Health]] | 美美/以色列；硬體+軟體慢性病平台；B2B 雇主健康；那斯達克上市 | — |

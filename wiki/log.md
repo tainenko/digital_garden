@@ -1247,3 +1247,8 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 概念，數位醫療/）: [[糖尿病數位管理競爭地圖]]
 - Updated: wiki/index.md（+3 entities、+1 concept，頁數 485→489）
 - Key additions: (1) 亞洲雙雄對決——Health2Sync（台灣）vs Kakao PASTA（韓國），兩家都整合 CGM + 智慧胰島素筆、都鎖定日本為下一站；(2) 全球格局：mySugr（Roche、600 萬用戶、歐美）、Dario Health（那斯達克、B2B 雇主端）、Livongo/Teladoc（$185 億美元收購）；(3) 三大護城河：CGM 整合深度、製藥廠智慧筆蓋合作、醫院/藥局 B2B 通路；(4) 共同趨勢：從糖尿病往多慢性病擴展、日本必爭、AI 功能標配化。
+
+## [2026-08-25] ingest | LINE Healthcare
+- Created（1 實體）: [[LINE Healthcare]]
+- Updated: wiki/index.md（+1 entity，頁數 489→490）
+- Key additions: LINE Doctor 已於 2025/06/10 關閉，LY Corporation 整合重疊業務所致；接棒為 SoftBank 旗下 HELPO Doctor；對台韓業者進軍日本的警示——即使背靠 LINE 月活 9,500 萬用戶，日本遠距問診商業化仍困難。
