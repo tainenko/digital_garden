@@ -1229,3 +1229,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 概念，go-backend/）: [[Go面試陷阱題彙整]]
 - Updated: [[Go defer與panic]]（+回鏈至陷阱題彙整）；wiki/index.md（+1 entity、+1 Golang 核心語言機制概念、+1 source summary，頁數 476→479）
 - Key additions: (1) 體裁＝「代碼輸出陷阱題」（給 code 問輸出/能否編譯），106 天鬆散排列，第一天為 HR 行為題、技術題從第二天起；(2) 萃取五大高頻 pattern——for-range 變數捕獲（&val 全指最後值）、具名型別可賦值性（底層型別同仍不可互賦，須至少一方非 named type）、三索引切片 a[low:high:max] 控容量、defer×recover×命名返回值「三步拆解」(f(3)=7)、嵌入 *T 零值 nil 解引用 panic；(3) ⚠️ 版本陷阱——Go 1.22 已改 for-range 迴圈變數為每輪新建，第二天經典題在新版答案改變，做舊題庫須先確認 Go 版本；(4) 與既有 Go 後端頁分工：系統化知識（[[Go defer與panic]]/[[Go執行期內部機制]]）vs 碎片化自測；與實作題（[[Coinbase面試題與Go解答]]）補的是語言細節/編譯器行為維度。決定不逐天入庫（重複冗長），以陷阱題彙整概念頁收斂。
+
+## [2026-08-25] ingest | 台灣數位醫療產業
+- Created（4 實體）: [[AlleyPin 翔評互動]]、[[Health2Sync 智抗糖]]、[[雲象科技]]、[[WaCare 遠距健康]]
+- Created（1 topic）: [[台灣數位醫療產業]]
+- Created（1 新概念分類）: wiki/concepts/數位醫療/
+- Updated: wiki/index.md（+4 entities、+1 topic，頁數 479→484）
+- Key additions: (1) 四大賽道地圖——診所 SaaS（AlleyPin 牙醫數位化、FT 亞太第 7、日本拓展）、慢性病管理（Health2Sync 糖尿病→C 輪 $2,000 萬美元、IPO 籌備）、AI 醫療影像（雲象科技數位病理、FDA+IVDR 雙認證、2026 創新板掛牌、2025 營收 +91%）、遠距醫療社群（WaCare）；(2) 政策環境：電子病歷 FHIR 跨院互通（2026/01 技術驗證）、衛福部遠距醫療鬆綁、SaMD 監管框架到位；(3) 台灣結構性優勢：全民健保 30 年資料 + ICT 供應鏈 + 臨床合作開放度；(4) 核心觀察：台灣新創一致以日本為第一個國際站點，電子病歷 FHIR 互通後資料平台新創機會值得追蹤。

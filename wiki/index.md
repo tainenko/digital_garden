@@ -6,7 +6,7 @@ updated: 2026-06-12
 
 # Wiki Index
 
-_Last updated: 2026-06-29 — 479 pages total_
+_Last updated: 2026-08-25 — 484 pages total_
 
 ---
 
@@ -15,6 +15,10 @@ _人物、公司、產品、組織_
 
 | Page | Summary | Sources |
 |------|---------|---------|
+| [[AlleyPin 翔評互動]] | 牙醫診所數位轉型 SaaS；FT 亞太高成長 500 強；進軍日本 | — |
+| [[Health2Sync 智抗糖]] | 糖尿病→慢性病數位管理；C 輪 $2,000 萬美元；籌備 IPO | — |
+| [[雲象科技]] | AI 數位病理影像；FDA + 歐盟 IVDR 雙認證；台灣創新板 7803 | — |
+| [[WaCare 遠距健康]] | 遠距健康照護社群 + 專家諮詢平台 | — |
 | [[tradesdontlie]] | TradingView MCP Bridge 作者；3,957 ⭐ 高熱度研究項目；CDP 橋接 Claude Code 與 TradingView Desktop | tradingview-mcp-bridge |
 | [[富途 Futu]] | 港美股券商，OpenD 本地代理架構，官方提供 Claude Code Skills（futuapi + install-futu-opend），支援自然語言下單 | futunn-opend-ai-integration |
 | [[alienzhou]] | Agent Harness 教學課程 Zero2Agent 作者；真實產品開發經驗；全程 VibeCoding + SDD 公開記錄 | alienzhou-zero2agent |
@@ -486,6 +490,12 @@ _各語言的語法深度、框架、工具鏈、最佳實踐與版本演進_
 
 ## Topics
 _主題綜述與跨來源合成_
+
+### 產業地圖
+
+| Page | Summary | Sources |
+|------|---------|---------|
+| [[台灣數位醫療產業]] | 診所 SaaS、慢性病管理、AI 影像、遠距醫療四大賽道；政策環境與結構性優勢 | — |
 
 ### 系統設計題解（24題）
 
