@@ -1252,3 +1252,8 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 實體）: [[LINE Healthcare]]
 - Updated: wiki/index.md（+1 entity，頁數 489→490）
 - Key additions: LINE Doctor 已於 2025/06/10 關閉，LY Corporation 整合重疊業務所致；接棒為 SoftBank 旗下 HELPO Doctor；對台韓業者進軍日本的警示——即使背靠 LINE 月活 9,500 萬用戶，日本遠距問診商業化仍困難。
+
+## [2026-08-25] ingest | 遠距問診法規比較（台灣 vs 日本）
+- Created（1 概念，數位醫療/）: [[遠距問診法規比較（台灣vs日本）]]
+- Updated: wiki/index.md（頁數 490→491）
+- Key additions: (1) 台日兩地均為「例外許可制」，初診原則不可遠距、慢性病複診合法；(2) 台灣 2024 修正通訊診察治療辦法，新增電子處方箋與擴大慢性病範圍；(3) 日本 2025/12 將オンライン診療正式寫入醫療法，法制化晚但趨嚴；(4) LINE Doctor 2025/06 關閉印證日本商業化困難；(5) 對新創啟示：慢性病複診是合規路徑、「諮詢」vs「問診」的法規套利邏輯、日本市場比台灣更難進入。

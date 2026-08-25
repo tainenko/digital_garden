@@ -6,7 +6,7 @@ updated: 2026-06-12
 
 # Wiki Index
 
-_Last updated: 2026-08-25 — 490 pages total_
+_Last updated: 2026-08-25 — 491 pages total_
 
 ---
 
