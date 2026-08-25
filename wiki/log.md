@@ -1236,3 +1236,8 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 新概念分類）: wiki/concepts/數位醫療/
 - Updated: wiki/index.md（+4 entities、+1 topic，頁數 479→484）
 - Key additions: (1) 四大賽道地圖——診所 SaaS（AlleyPin 牙醫數位化、FT 亞太第 7、日本拓展）、慢性病管理（Health2Sync 糖尿病→C 輪 $2,000 萬美元、IPO 籌備）、AI 醫療影像（雲象科技數位病理、FDA+IVDR 雙認證、2026 創新板掛牌、2025 營收 +91%）、遠距醫療社群（WaCare）；(2) 政策環境：電子病歷 FHIR 跨院互通（2026/01 技術驗證）、衛福部遠距醫療鬆綁、SaMD 監管框架到位；(3) 台灣結構性優勢：全民健保 30 年資料 + ICT 供應鏈 + 臨床合作開放度；(4) 核心觀察：台灣新創一致以日本為第一個國際站點，電子病歷 FHIR 互通後資料平台新創機會值得追蹤。
+
+## [2026-08-25] ingest | IC Care
+- Created（1 實體）: [[IC Care]]
+- Updated: wiki/index.md（+1 entity，頁數 484→485）
+- Key additions: 慷驊股份有限公司旗下遠距醫療平台，台灣唯一 24 小時線上緊急醫療諮詢；定位為旅外/出差族群，與產險公司及旅遊業者 B2B 合作為主要商業模式；有日本線上看診服務；與 WaCare（社群）、Health2Sync（慢病）定位明顯不同。
