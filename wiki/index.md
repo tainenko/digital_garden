@@ -6,7 +6,7 @@ updated: 2026-06-12
 
 # Wiki Index
 
-_Last updated: 2026-08-25 — 493 pages total_
+_Last updated: 2026-08-25 — 496 pages total_
 
 ---
 
@@ -570,6 +570,7 @@ _主題綜述與跨來源合成_
 
 | Page | Original Source | Date Ingested |
 |------|----------------|---------------|
+| [[ntnu-emi-ai-language-learning\|AI科技如何顛覆語言學習]] | 臺師大雙語中心講座（謝承諭，清大外語系） | 2026-08-25 |
 | [[tradingview-mcp-bridge|TradingView MCP Bridge]] | https://github.com/tradesdontlie/tradingview-mcp | 2026-06-26 |
 | [[futunn-skillhub-openapi|富途 Skill Hub：futuapi 官方技能頁]] | https://www.futunn.com/hk/skillhub/openapi | 2026-06-26 |
 | [[futuhk-futu-skills-intro|富途 Skills 入門指南：讓 AI Agent 幫你炒股]] | https://www.futuhk.com/blog/detail-futu-skills-102-260475002 | 2026-06-26 |

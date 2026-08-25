@@ -1267,3 +1267,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 概念，go-backend/）: [[Go1.26新功能實戰]]
 - Updated: wiki/index.md（+1 concept，頁數 492→493）
 - Key additions: (1) Green Tea GC 正式預設——以連續記憶體頁掃描取代逐指針，GC overhead 降 10–40%，高分配服務有感；(2) new 帶初始值（ptr := new(int64(300))）；(3) 泛型自參照約束（type Adder[A Adder[A]] interface）解鎖遞迴泛型；(4) crypto/hpke RFC 9180 後量子混合加密；(5) go fix 擴展為可插拔 modernizer 框架；(6) cgo overhead -30%。
+
+## [2026-08-25] ingest | AI科技如何顛覆語言學習（臺師大講座）
+- Created（1 來源摘要）: [[ntnu-emi-ai-language-learning]]
+- Created（2 概念，語言學習/）: [[AI輔助語言學習]]、[[教師角色轉型（AI時代）]]
+- Created（1 新概念分類）: wiki/concepts/語言學習/
+- Updated: wiki/index.md（+1 source summary、+2 concepts，頁數 493→496）
+- Key additions: (1) 四技能 AI 對應地圖（聽說讀寫 × 工具）；(2) 教師從傳授者→守門人；(3) 台灣市場：知識衛星 AI 口說課 3,500 萬營收、93% 台灣人認為 AI 不能取代真人互動；(4) 「AI 語」成雙語教育第三語言；(5) 核心張力：AI 效率 vs 真人溫度、工具普及 vs 能力貶值。
