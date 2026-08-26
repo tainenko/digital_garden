@@ -1274,3 +1274,9 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 新概念分類）: wiki/concepts/語言學習/
 - Updated: wiki/index.md（+1 source summary、+2 concepts，頁數 493→496）
 - Key additions: (1) 四技能 AI 對應地圖（聽說讀寫 × 工具）；(2) 教師從傳授者→守門人；(3) 台灣市場：知識衛星 AI 口說課 3,500 萬營收、93% 台灣人認為 AI 不能取代真人互動；(4) 「AI 語」成雙語教育第三語言；(5) 核心張力：AI 效率 vs 真人溫度、工具普及 vs 能力貶值。
+
+## [2026-08-25] ingest | JetBrains go-modern-guidelines
+- Created（1 來源摘要）: [[jetbrains-go-modern-guidelines]]
+- Created（1 概念，go-backend/）: [[go-modern-guidelines 現代化規則]]
+- Updated: wiki/index.md（+1 source、+1 concept，頁數 496→498）
+- Key additions: (1) AI 寫舊 Go 的兩根本原因：訓練截止日 + 頻率偏差；(2) 版本感知——讀 go.mod 只推薦適用版本規則；(3) 6 條 Before/After 規則：slices.Contains、new(val)、errors.AsType[T]、sync.WaitGroup.Go、cmp.Or、min/max；(4) Go 1.21-1.27 規則版本對應速查；(5) 與 go fix 的分工：go fix 是批次遷移、go-modern-guidelines 是預防 AI 生成舊寫法；(6) Claude Code 啟用方式：/use-modern-go。
