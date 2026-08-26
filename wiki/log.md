@@ -1280,3 +1280,9 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 概念，go-backend/）: [[go-modern-guidelines 現代化規則]]
 - Updated: wiki/index.md（+1 source、+1 concept，頁數 496→498）
 - Key additions: (1) AI 寫舊 Go 的兩根本原因：訓練截止日 + 頻率偏差；(2) 版本感知——讀 go.mod 只推薦適用版本規則；(3) 6 條 Before/After 規則：slices.Contains、new(val)、errors.AsType[T]、sync.WaitGroup.Go、cmp.Or、min/max；(4) Go 1.21-1.27 規則版本對應速查；(5) 與 go fix 的分工：go fix 是批次遷移、go-modern-guidelines 是預防 AI 生成舊寫法；(6) Claude Code 啟用方式：/use-modern-go。
+
+## [2026-08-25] ingest | Trail of Bits modern-python skill
+- Created（1 來源摘要）: [[trailofbits-modern-python-skill]]
+- Created（1 概念，python/）: [[modern-python 現代工具鏈]]
+- Updated: wiki/index.md（+1 source、+1 concept，頁數 498→500）
+- Key additions: (1) 定位是工具鏈現代化（vs go-modern-guidelines 的語言層語法現代化）；(2) 四大工具：uv（取代 pip/virtualenv/Poetry）、ruff（取代 flake8+black+isort）、ty（取代 mypy/pyright）、pytest；(3) 核心原則：不手動 activate venv、改用 uv run；dependency-groups 取代 optional extras；(4) pyproject.toml 完整設定範例；(5) 型別提示現代語法（list[str] | None 取代 Optional[List[str]]）；(6) Claude Code 啟用：/skill add trailofbits/modern-python；(7) 限制：需 Python 3.11+、ty 成熟度不及 mypy。

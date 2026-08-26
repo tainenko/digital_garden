@@ -6,7 +6,7 @@ updated: 2026-06-12
 
 # Wiki Index
 
-_Last updated: 2026-08-25 — 498 pages total_
+_Last updated: 2026-08-25 — 500 pages total_
 
 ---
 
@@ -435,6 +435,7 @@ _各語言的語法深度、框架、工具鏈、最佳實踐與版本演進_
 | [[Go1.23新功能實戰]] | range-over-func 迭代器、iter.Seq/Seq2/Pull、unique 套件、Timer Reset 修正 | go-release-notes-1.22-1.25 |
 | [[Go1.24新功能實戰]] | 泛型型別別名、weak.Pointer、os.Root 沙盒、Swiss Table Map、tool 指令 | go-release-notes-1.22-1.25 |
 | [[Go1.25新功能實戰]] | testing/synctest 穩定、t.Context()、iter.Concat、slices.Chunk、後量子 TLS ML-KEM | go-release-notes-1.22-1.25 |
+| [[modern-python 現代工具鏈]] | Trail of Bits skill；uv/ruff/ty 工具鏈；pyproject.toml 設定；與 go-modern-guidelines 對比 | trailofbits-modern-python-skill |
 | [[go-modern-guidelines 現代化規則]] | JetBrains 工具；AI 寫現代 Go 的規則集；Before/After 範例；版本對應速查表 | jetbrains-go-modern-guidelines |
 | [[Go1.26新功能實戰]] | Green Tea GC 正式預設（GC overhead -10~40%）、new 帶初始值、泛型自參照、crypto/hpke | — |
 | [[Go1.27新功能實戰]] | Generic Methods 解除四年限制、encoding/json/v2 正式畢業、Post-Quantum 密碼學、uuid package | — |
@@ -571,6 +572,7 @@ _主題綜述與跨來源合成_
 
 | Page | Original Source | Date Ingested |
 |------|----------------|---------------|
+| [[trailofbits-modern-python-skill\|Trail of Bits modern-python skill]] | 現代 Python 工具鏈；uv/ruff/ty 取代舊工具；Claude Code `/skill add trailofbits/modern-python` | 2026-08-25 |
 | [[jetbrains-go-modern-guidelines\|JetBrains go-modern-guidelines]] | 讓 AI 寫出現代化 Go 程式碼；版本感知規則集；支援 Claude Code `/use-modern-go` | 2026-08-25 |
 | [[ntnu-emi-ai-language-learning\|AI科技如何顛覆語言學習]] | 臺師大雙語中心講座（謝承諭，清大外語系） | 2026-08-25 |
 | [[tradingview-mcp-bridge|TradingView MCP Bridge]] | https://github.com/tradesdontlie/tradingview-mcp | 2026-06-26 |
