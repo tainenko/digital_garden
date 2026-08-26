@@ -1286,3 +1286,9 @@ Operations: `ingest` | `query` | `lint` | `init`
 - Created（1 概念，python/）: [[modern-python 現代工具鏈]]
 - Updated: wiki/index.md（+1 source、+1 concept，頁數 498→500）
 - Key additions: (1) 定位是工具鏈現代化（vs go-modern-guidelines 的語言層語法現代化）；(2) 四大工具：uv（取代 pip/virtualenv/Poetry）、ruff（取代 flake8+black+isort）、ty（取代 mypy/pyright）、pytest；(3) 核心原則：不手動 activate venv、改用 uv run；dependency-groups 取代 optional extras；(4) pyproject.toml 完整設定範例；(5) 型別提示現代語法（list[str] | None 取代 Optional[List[str]]）；(6) Claude Code 啟用：/skill add trailofbits/modern-python；(7) 限制：需 Python 3.11+、ty 成熟度不及 mypy。
+
+## [2026-08-25] ingest | AI 方法論 Skill 全景
+- Created（1 來源摘要）: [[ai-methodology-skills-landscape]]
+- Created（1 概念，ai開發/）: [[AI方法論Skill地圖]]
+- Updated: wiki/index.md（+1 source、+1 concept，頁數 500→502）
+- Key additions: (1) 方法論型 vs 工具鏈型 Skill 的分類框架；(2) nathankim0/clean-architecture-skills：Clean Architecture 依賴規則驗證 + Kent Beck 重構風格雙 Skill；(3) ramziddin/solid-skills：SOLID 五原則 + 硬性 method<10行/class<50行約束 + TDD 強制流程；(4) zudochkin/go-clean-ddd-skill：Go 專用 6 階段 DDD 互動建模；(5) ZLStas/booklib-ai：22 本經典著作蒸餾為 Skill，四層啟動架構（Skills/Commands/Agents/Rules），支援 Python/TypeScript/Rust/JVM profile 安裝；(6) 三種推薦組合（Go 後端嚴格版、Python 架構版、全方位品質版）。
